@@ -1,11 +1,13 @@
 .DS_Store
 bin
+sources
 assignments-solution
 node_modules
 npm-debug.log
 package-lock.json
 yarn-error.log
 *.bkp
-sources/
+
 week3/prep-exercise/server-demo/
-assignments/hackyourtemperature/sources/
+assignments/hackyourtemperature/sources/keys.js
+
