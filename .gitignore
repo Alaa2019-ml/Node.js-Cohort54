@@ -6,6 +6,6 @@ npm-debug.log
 package-lock.json
 yarn-error.log
 *.bkp
-
+sources/
 week3/prep-exercise/server-demo/
 assignments/hackyourtemperature/sources/
